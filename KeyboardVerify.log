@@ -1,0 +1,4 @@
+    WARNING: ^ (U+005e) is already defined more than once on the keyboard (on VK_F, ShiftState 'Ctl+Alt' and VK_6, ShiftState 'Shift').
+    WARNING: ` (U+0060) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Base' and VK_A, ShiftState 'Ctl+Alt').
+    WARNING: ~ (U+007e) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Shift' and VK_G, ShiftState 'Ctl+Alt').
+    WARNING: '•' defined on OEM_102 (Ctl+Alt) but not defined elsewhere. This key may not be present on all keyboards.
