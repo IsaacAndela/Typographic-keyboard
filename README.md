@@ -14,7 +14,7 @@ Now you can tweet like a gentleman and use those fancy curly quotes with ease.
 * Curly quotes and other advanced puntuation marks are easily accessable.
 
 ## Installation
-* Use *setup.exe* &#8211; located in the *Build* folder to quickly and easily install the keyboard layout.
+* Open *setup.exe* &#8211; located in the *Build* folder to quickly and easily install the keyboard layout.
 * In case you don&#8217;t trust a executable from some random guy at GitHub (you shouldn&#8217;t) you can build your own layout from the *.klc* file. You should download the [Microsoft Keyboard Layout Creator][1] for this.
 
 
