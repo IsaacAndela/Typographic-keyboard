@@ -15,7 +15,7 @@ Now you can tweet like a gentleman and use those fancy curly quotes with ease.
 
 ## Installation
 * Open *setup.exe* &#8211; located in the *Build* folder &#8211; to quickly and easily install the keyboard layout.
-* In case you don&#8217;t trust an executable from some random guy at GitHub (you shouldn&#8217;t) you can build your own layout from the *.klc* file. You should download the [Microsoft Keyboard Layout Creator][1] for this.
+* In case you don&#8217;t trust an executable from some random guy at GitHub (you shouldn&#8217;t), you can build your own layout from the *.klc* file. You should download the [Microsoft Keyboard Layout Creator][1] for this.
 
 
 [1]: http://www.microsoft.com/en-us/download/details.aspx?id=22339
